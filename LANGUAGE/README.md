@@ -28,6 +28,8 @@ CHATGPT: Foundation models are large neural networks that are trained on vast am
 
 Overall, foundation models are a crucial development in AI that enable machines to understand and generate natural language in a more sophisticated way than ever before.
 
+__Ref. ChatGPT-generated response, accessed 03/06/2023__
+
 - - - - - - - - - - - - - - - - -
 
 PROMPT: Define and describe foundation models, giving examples such as text-to-image model, Large Language Models (LLM), and other use-cases of these large artificial intelligence models trained on a vast quantity of unlabeled data at scale.
@@ -43,6 +45,8 @@ CHATGPT: Foundation models are large artificial intelligence models that are tra
 4. Recommendation Models: Recommendation models are foundation models that can predict user preferences based on past behavior. These models are trained on large datasets of user data to learn the patterns and relationships within the data, allowing them to make accurate predictions. Examples of such models include Collaborative Filtering, Matrix Factorization, and Neural Networks based models.
 
 Overall, foundation models are critical in the development of AI applications. They provide a starting point for building more specific models and allow for the creation of highly advanced AI systems that can perform complex tasks such as language translation, image generation, and speech recognition.
+
+__Ref. ChatGPT-generated response, accessed 03/06/2023__
 
 - - - - - - - - - - - - - - - - -
 
