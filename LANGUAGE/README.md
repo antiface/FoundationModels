@@ -32,6 +32,24 @@ __Ref. ChatGPT-generated response, accessed 03/06/2023__
 
 - - - - - - - - - - - - - - - - -
 
+PROMPT: What are foundation models, exactly? Please generalize to multiple use-cases and not just neural networks trained on vast amounts of texts, such as Large Language Models (LLM).
+
+CHATGPT: Foundation models are large and complex AI models that are trained on vast amounts of data to learn patterns and relationships within the data. These models can be applied to various fields and use cases, beyond just language processing. Here are some examples:
+
+1. Computer vision: Foundation models can be used in computer vision tasks, such as object recognition or image segmentation. These models are trained on large datasets of labeled images and can accurately identify and classify objects within an image.
+
+2. Natural Language Processing (NLP): As mentioned earlier, foundation models like Large Language Models (LLMs) are a significant advancement in NLP. These models can understand natural language and generate new text, such as completing sentences or generating articles.
+
+3. Speech recognition: Foundation models can be used in speech recognition tasks to accurately transcribe spoken words into text. These models are trained on large datasets of speech data, allowing them to recognize and understand speech patterns.
+
+4. Recommendation systems: Foundation models can be used in recommendation systems to predict user preferences based on their past behavior. These models are trained on large datasets of user data, allowing them to accurately predict what a user might like or need.
+
+Overall, foundation models are powerful tools that enable machines to learn patterns and relationships within data, leading to accurate predictions and better decision-making in various fields and applications.
+
+__Ref. ChatGPT-generated response, accessed 03/06/2023__
+
+- - - - - - - - - - - - - - - - -
+
 PROMPT: Define and describe foundation models, giving examples such as text-to-image model, Large Language Models (LLM), and other use-cases of these large artificial intelligence models trained on a vast quantity of unlabeled data at scale.
 
 CHATGPT: Foundation models are large artificial intelligence models that are trained on vast quantities of unlabeled data to learn patterns and relationships within the data. These models serve as the building blocks or starting points for developing more specific AI applications. Here are some examples:
