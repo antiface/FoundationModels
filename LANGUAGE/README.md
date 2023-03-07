@@ -43,3 +43,11 @@ Type: [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
 License:	[Proprietary](https://en.wikipedia.org/wiki/Proprietary_software)
 
 Website:	[chat.openai.com/chat](https://chat.openai.com/chat)
+
+- - - - - - - - - - - - - - - - -
+
+### GPT-3
+
+["Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model released in 2020 that uses deep learning to produce human-like text. Given an initial text as prompt, it will produce text that continues the prompt." - GPT-3 - Wikipedia](https://en.wikipedia.org/wiki/GPT-3)
+
+- - - - - - - - - - - - - - - - -
