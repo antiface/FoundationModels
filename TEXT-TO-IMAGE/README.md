@@ -6,6 +6,8 @@
 
 - - - - - - - - - - - - - - - - -
 
+### ChatGPT in action:
+
 PROMPT: What is a text-to-image model? Give a detailed description in point form.
 
 CHATGPT: A text-to-image model is a type of AI model that generates images from textual descriptions. Here are some key points to understand:
