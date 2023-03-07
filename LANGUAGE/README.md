@@ -51,3 +51,28 @@ Website:	[chat.openai.com/chat](https://chat.openai.com/chat)
 ["Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model released in 2020 that uses deep learning to produce human-like text. Given an initial text as prompt, it will produce text that continues the prompt." - GPT-3 - Wikipedia](https://en.wikipedia.org/wiki/GPT-3)
 
 - - - - - - - - - - - - - - - - -
+
+### ChatGPT in action:
+
+PROMPT: What is GPT-3? Give a detailed description in point form.
+
+CHATGPT: GPT-3 is a state-of-the-art natural language processing (NLP) model developed by OpenAI. Here are some key points to understand:
+
+* GPT-3 stands for "Generative Pre-trained Transformer 3." It is the third iteration of the GPT series of language models.
+* GPT-3 is a large-scale deep learning model that has been trained on a massive dataset of text from the internet, including books, articles, and web pages. It has been trained using an unsupervised learning approach, meaning that the model learns to make predictions based on patterns and relationships within the data without explicit guidance.
+* The model has 175 billion parameters, making it one of the largest language models ever created.
+* GPT-3 can perform various NLP tasks, including language translation, summarization, and question answering. It can also generate text that is difficult to distinguish from text written by a human, making it a powerful tool for natural language generation.
+* GPT-3 uses a Transformer architecture, which is a type of deep learning architecture that uses self-attention to model the relationships between different words in a sentence.
+* GPT-3 has various use cases, such as chatbots, language translation, content creation, and text completion.
+
+Here is an example of how GPT-3 might work:
+
+* The user inputs a sentence, such as "Can you please write a summary of this article?"
+* GPT-3 processes the input and generates a summary of the article, using its knowledge of language patterns and relationships.
+* The output might be a concise summary that captures the main points of the article.
+
+Overall, GPT-3 is a powerful language model that has advanced the field of NLP. It has various practical applications and has demonstrated the potential of large-scale language models in natural language generation and processing.
+
+__Ref. ChatGPT-generated response, accessed 03/06/2023__
+
+- - - - - - - - - - - - - - - - -
