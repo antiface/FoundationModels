@@ -46,6 +46,12 @@ Overall, foundation models are critical in the development of AI applications. T
 
 - - - - - - - - - - - - - - - - -
 
+> [__It’s unclear who can copyright or claim ownership AI-generated works. The requester, who simply used a tool to generate text, or OpenAI? Who?__](https://www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately-owns-content-generated-by-chatgpt-and-other-ai-platforms)
+>
+> [For a work to enjoy copyright protection under current U.S. law, “the work must be the result of original and creative authorship by a human author,” says Margaret Esquenet, partner with Finnegan, Henderson, Farabow, Garrett & Dunner, LLP. “Absent human creative input, a work is not entitled to copyright protection. As a result, the U.S. Copyright Office will not register a work that was created by an autonomous artificial intelligence tool.”](https://www.forbes.com/sites/joemckendrick/2022/12/21/who-ultimately-owns-content-generated-by-chatgpt-and-other-ai-platforms)
+
+- - - - - - - - - - - - - - - - -
+
 Type: [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
 
 License:	[Proprietary](https://en.wikipedia.org/wiki/Proprietary_software)
