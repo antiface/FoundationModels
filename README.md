@@ -24,6 +24,12 @@ their fundamentally sociotechnical nature." - On the Opportunities and Risks of 
 
 - - - - - - - - - - - - - - - - -
 
+> Today, foundation models such as GPT-3, PaLM, Flamingo, DALL-E, Stable Diffusion, Make-a-Video, and others are trained on broad data sets. They are, therefore, widely adaptable to a range of downstream tasks like text, image, and video generation, as well as text summarization. This technology pattern has produced some inspiring, even moving, early results. But the applications that sit on top of foundation models are often best described as proofs of concept. They are not becoming useful nearly as fast as the underlying models are improving. Developers are up against the labor, resources, and capital required to build a functioning application on top of a foundation model, which leaves startups facing a daunting climb to stay in the game.
+
+-- [Foundation Models: The future isn’t happening fast enough — Better tooling will make it happen faster](https://www.madrona.com/foundation-models-create-opportunity-tooling-layer/)
+
+- - - - - - - - - - - - - - - - -
+
 PROMPT: What are foundation models, exactly? Please generalize to multiple use-cases and not just neural networks trained on vast amounts of texts, such as Large Language Models (LLM).
 
 CHATGPT: Foundation models are large and complex AI models that are trained on vast amounts of data to learn patterns and relationships within the data. These models can be applied to various fields and use cases, beyond just language processing. Here are some examples:
