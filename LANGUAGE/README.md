@@ -27,3 +27,27 @@ CHATGPT: Foundation models are large neural networks that are trained on vast am
 * Examples of foundation models include OpenAI's GPT and Google's BERT.
 
 Overall, foundation models are a crucial development in AI that enable machines to understand and generate natural language in a more sophisticated way than ever before.
+
+- - - - - - - - - - - - - - - - -
+
+PROMPT: Define and describe foundation models, giving examples such as text-to-image model, Large Language Models (LLM), and other use-cases of these large artificial intelligence models trained on a vast quantity of unlabeled data at scale.
+
+CHATGPT: Foundation models are large artificial intelligence models that are trained on vast quantities of unlabeled data to learn patterns and relationships within the data. These models serve as the building blocks or starting points for developing more specific AI applications. Here are some examples:
+
+1. Text-to-Image Models: Text-to-image models are foundation models that can generate images from textual descriptions. These models are trained on large datasets of text and corresponding images to learn the relationship between language and visual information. One example of such a model is DALL-E, developed by OpenAI, which can generate highly realistic images from textual descriptions.
+
+2. Large Language Models (LLMs): Large Language Models, also known as Pretrained Language Models, are foundation models that have been trained on vast amounts of text data, such as books, articles, and web pages. These models can understand natural language and generate new text based on the learned patterns and relationships between words and phrases. Examples of LLMs include GPT-3, developed by OpenAI, and BERT, developed by Google.
+
+3. Speech Recognition Models: Speech recognition models are foundation models that can transcribe spoken words into text. These models are trained on large datasets of speech data to learn the patterns and relationships within speech. One example of such a model is DeepSpeech, developed by Mozilla, which can accurately transcribe spoken words into text.
+
+4. Recommendation Models: Recommendation models are foundation models that can predict user preferences based on past behavior. These models are trained on large datasets of user data to learn the patterns and relationships within the data, allowing them to make accurate predictions. Examples of such models include Collaborative Filtering, Matrix Factorization, and Neural Networks based models.
+
+Overall, foundation models are critical in the development of AI applications. They provide a starting point for building more specific models and allow for the creation of highly advanced AI systems that can perform complex tasks such as language translation, image generation, and speech recognition.
+
+- - - - - - - - - - - - - - - - -
+
+Type: [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
+
+License:	[Proprietary](https://en.wikipedia.org/wiki/Proprietary_software)
+
+Website:	[chat.openai.com/chat](https://chat.openai.com/chat)
