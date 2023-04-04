@@ -1,4 +1,4 @@
-## CONVERSATIONS WITH CHATGPT, 2023
+## CONVERSATIONS WITH CHATGPT, 2023:
 
 PROMPT: Make a list of things that could cause a failure in a group collaboration process.
 Here's a list of things that could cause a failure in a group collaboration process:
