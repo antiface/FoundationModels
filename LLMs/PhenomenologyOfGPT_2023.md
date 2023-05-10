@@ -1,3 +1,5 @@
+## PHENOMENOLOGY OF GPT, 2023:
+
 PROMPT: What would the tenets be of a phenomenology of the experience of using a technology such as the GPT foundation model?
 
 CHATGPT: A phenomenology of the experience of using a technology like the GPT foundation model would focus on the subjective and embodied aspects of engaging with the technology. While there may not be an established set of tenets specifically for this context, here are some key aspects that could be considered:
