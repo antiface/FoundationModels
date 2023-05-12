@@ -66,6 +66,28 @@ By examining the temporality and cognitive flow in the context of using GPT foun
 
 ---------------------------------------------------
 
+PROMPT: What would the media archaeology be of foundation models such as GPT in general in their everyday use by people?
+
+CHATGPT: Media archaeology, applied to the everyday use of foundation models like GPT (such as OpenAI's GPT-3), would involve investigating the historical and cultural dimensions of these technologies and their impact on society. Here are some potential aspects of media archaeology when examining the everyday use of foundation models:
+
+1. Historical Context: Media archaeology would situate the development and deployment of GPT foundation models within a broader historical context. It would explore the evolution of natural language processing, machine learning, and artificial intelligence technologies leading up to the creation of foundation models. This includes examining the historical lineage of text-based AI systems and their societal implications.
+
+2. Technological Genealogy: Media archaeology would trace the lineage and influences of foundation models, investigating the technologies, algorithms, and theoretical frameworks that contributed to their development. It would explore how earlier language models, data processing techniques, and computational advancements shaped the foundation models we see today.
+
+3. Materiality of Foundation Models: Media archaeology would examine the material aspects of foundation models, considering the hardware infrastructure, data centers, and computational resources required for their functioning. It would also investigate the environmental implications of large-scale computing infrastructure and the energy consumption associated with training and using these models.
+
+4. Socio-cultural Context: Media archaeology would explore the socio-cultural context in which GPT foundation models are embedded. It would investigate the societal expectations, desires, and anxieties that shape the adoption and use of these technologies. This includes examining the cultural discourses, media representations, and public perceptions surrounding foundation models.
+
+5. User Practices and Experiences: Media archaeology would investigate the everyday use of foundation models by people, considering how individuals engage with these technologies in their personal and professional lives. It would explore the practices, habits, and rituals that emerge around the use of foundation models for various purposes, such as content generation, language translation, or information retrieval.
+
+6. Power and Agency: Media archaeology would examine the power dynamics and agency involved in the everyday use of foundation models. It would explore how individuals and communities negotiate their relationship with these technologies, considering the balance between human decision-making and the influence of automated systems. It would also investigate issues related to algorithmic biases, transparency, and accountability.
+
+7. Cultural Transformations: Media archaeology would assess the broader cultural transformations brought about by the widespread use of foundation models. It would explore how these technologies impact creative practices, knowledge production, communication patterns, and social interactions. It would also investigate the potential consequences for professional domains such as journalism, content creation, and creative writing.
+
+By applying media archaeology to the everyday use of foundation models like GPT, researchers can gain insights into the historical, material, cultural, and social dimensions of these technologies. This approach helps us understand the complex entanglements between humans and machines, the cultural implications of AI-driven language models, and the evolving dynamics of communication and information production in contemporary society.
+
+---------------------------------------------------
+
 PROMPT: Imagine you are an average North American layperson. How might such a layperson describe in their own words what the phenomenological experience is of using a GPT foundation model in the "Temporality and Cognitive Flow" aspect, in the phenomenology of the experience of using the technology of GPT foundation models?
 
 CHATGPT: 
